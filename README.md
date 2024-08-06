@@ -13,3 +13,6 @@
 - Макеты в figma: [Ссылка](https://www.figma.com/file/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0%3A1).
 - Посмотреть отчет о проделанной работе [Ссылка на отчет](https://docs.google.com/document/d/1yYR2m-wNQ7vrBRuWB5mS2OXsa_yC90MWK7c-jwyYNdA/edit).
 - Посмотреть проделанную работу [Ссылка на таблицу с проверками](https://docs.google.com/spreadsheets/d/1k8d8pdE4qYCvzzuUvIYpqJn4y7kR2FDsxTA18kuAgKM/edit?gid=899462569#gid=899462569).
+
+![image](https://github.com/user-attachments/assets/942430d7-7e3e-49c1-b121-cb6601760124)
+
