@@ -15,4 +15,7 @@
 - Посмотреть проделанную работу [Ссылка на таблицу с проверками](https://docs.google.com/spreadsheets/d/1k8d8pdE4qYCvzzuUvIYpqJn4y7kR2FDsxTA18kuAgKM/edit?gid=899462569#gid=899462569).
 
 ![image](https://github.com/user-attachments/assets/942430d7-7e3e-49c1-b121-cb6601760124)
+![image](https://github.com/user-attachments/assets/855535d1-24de-48c0-b125-06a70c66cb34)
+![image](https://github.com/user-attachments/assets/7b2c45cb-1ebc-4b67-bec2-9256e9a4d3f7)
+![image](https://github.com/user-attachments/assets/e99f115f-e80d-4d9c-ac23-e52b99c93e3f)
 
