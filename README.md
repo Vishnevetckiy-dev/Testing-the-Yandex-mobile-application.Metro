@@ -8,7 +8,7 @@
 - Провести проверки: Протестировать мобильное приложение по своим чек-листам, завести баг-репорты в YouTrack
 - Оформить отчёт о тестировании
 #
-- Реализация была предоставленная на тестовом стенде тренажера Яндекс.Маршруты.
+- Реализация была предоставленна с помощь инструмента "Android Studio".
 - Требования к мобильному приложению [Ссылка требования](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf).
 - Макеты в figma: [Ссылка](https://www.figma.com/file/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0%3A1).
 - Посмотреть отчет о проделанной работе [Ссылка на отчет](https://docs.google.com/document/d/1yYR2m-wNQ7vrBRuWB5mS2OXsa_yC90MWK7c-jwyYNdA/edit).
